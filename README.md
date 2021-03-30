@@ -16,19 +16,24 @@
 <h2>所需材料：</h2>
 <ul>
   <li>微波爐變壓 800w x 1</li>
-  <li>AC 110V TO DC 5V 變壓器(ESP8266供電用)</li>
+  <li>35平方軟銅線4尺</li>
+  <li>鎳片/焊片各種規格</li>
+  <li>粗銅線1.5mm x 6cm x 2 (要磨尖)</li>
+  <li>AC 110V TO DC 12V 變壓器(ESP8266供電用)</li>
+  <li>YuRobot 545043 Buck x 1</li>
   <li>20A 搖頭開關 x 1</li>  
   <li>Arduino ESP8266 x 1</li>
   <li>TM1637 4 Digital Display 四位元七段顯示器 x 1</li>
   <li>可變電阻 10KΩ x 1</li>
-  <li>電阻 1KΩ 1/2w x 1</li>
-  <li>電阻 330Ω 1/2w x 1</li>
+  <li>電阻 1KΩ 1/2w x 2</li>
+  <li>電阻 330Ω 1/2w x 2</li>
   <li>電容 10㎌ 50V x 2</li>
   <li>LED 綠、紅 各一顆</li>
   <li>蜂嗚器 5V x 1</li>
   <li>Relay 5V x 1</li>
   <li>洞洞板 x 1</li>
   <li>微動開關 x 1</li>
+  <li>二極體 1N4007 x 1</li>
 </ul>
 <h2>接腳參考：</h2>
 <ul>
@@ -38,6 +43,10 @@
   <li>D3：微動開關 Input</li>
 </ul>
 <h2>電路圖：</h2>
-
+<center>
+  <img src="Circuit_diagram/welding_timer.png">
+  <br>
+  電路圖
+</center>
 
 
