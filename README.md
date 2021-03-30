@@ -32,7 +32,6 @@
   <li>微動開關 x 1</li>
 </ul>
 <br>
-<br>
 <h2>接腳參考：</h2>
 <ul>
   <li>D0：TM1637 CLK</li>
@@ -40,7 +39,6 @@
   <li>D2：RELAY 5V</li>
   <li>D3：微動開關 Input</li>
 </ul>
-<br>
 <br>
 <h2>電路圖：</h2>
 
