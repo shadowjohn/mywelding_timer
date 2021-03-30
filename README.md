@@ -20,7 +20,7 @@
   <li>AC 110V TO DC 5V 變壓器(ESP8266供電用)</li>
   <li>20A 搖頭開關 x 1</li>  
   <li>Arduino ESP8266 x 1</li>
-  <li>TM1637 4 Digital Display 四位元七段顯示器 x 1<li>
+  <li>TM1637 4 Digital Display 四位元七段顯示器 x 1</li>
   <li>可變電阻 10KΩ x 1</li>
   <li>電阻 1KΩ 1/2w x 1</li>
   <li>電阻 330Ω 1/2w x 1</li>
@@ -29,7 +29,7 @@
   <li>蜂嗚器 5V x 1</li>
   <li>Relay 5V x 1</li>
   <li>洞洞板 x 1</li>
-  <li>微動開關 x 1<li>
+  <li>微動開關 x 1</li>
 </ul>
 <br>
 <br>
