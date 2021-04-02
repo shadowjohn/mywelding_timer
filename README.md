@@ -6,7 +6,7 @@
 作者：羽山秋人 (https://3wa.tw)<br>
 <br>
 最初開發日期：2021-03-27 12:05<br>
-最後更新日期：2021-03-30 14:10<br>
+最後更新日期：2021-04-02 21:53<br>
 版本：V0.1<br>
 License：MIT<br>
 <br>
@@ -21,9 +21,9 @@ License：MIT<br>
   <li>微波爐變壓 800w x 1</li>
   <li>35平方軟銅線4尺</li>
   <li>鎳片/焊片各種規格</li>
-  <li>粗銅線1.5mm x 6cm x 2 (要磨尖)</li>
-  <li>AC 110V TO DC 12V 變壓器(ESP8266供電用)</li>
-  <li>YuRobot 545043 Buck x 1</li>
+  <li>粗銅線1.6mm x 7cm x 2，拆粗的單芯電線即可</li>
+  <li>AC 110V TO DC 12V 變壓器(Nodemcu 供電用)</li>
+  <li>YuRobot 545043 Buck x 1，或 LM2596 Buck x1 ，比較推薦用 LM2596</li>
   <li>20A 搖頭開關 x 1</li>  
   <li>Arduino ESP8266 x 1</li>
   <li>TM1637 4 Digital Display 四位元七段顯示器 x 1</li>
@@ -54,6 +54,7 @@ License：MIT<br>
 <h2>說明影片：</h2>
 <ul>
   <li>影片一：<a target="_blank" href="https://youtu.be/TA6dgjnLMRM">https://youtu.be/TA6dgjnLMRM</a></li>
+  <li>影片二（製作完成）：<a target="_blank" href="https://youtu.be/AywPSv3ZF3s">https://youtu.be/AywPSv3ZF3s</a></li>
 </ul>
 <h2>電路圖：</h2>
 <center>
