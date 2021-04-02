@@ -44,6 +44,7 @@ License：MIT<br>
   <li>D1：TM1637 DIO</li>
   <li>D2：RELAY 5V</li>
   <li>D3：微動開關 Input</li>
+  <li>建議腳位可以設開一點，如 D0 D2 D4 D6，以免焊接時太近短路沒發現</li>
 </ul>
 <h2>使用注意事項：</h2>
 <ul>
