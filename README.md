@@ -63,6 +63,8 @@ License：MIT<br>
   <li>影片一：<a target="_blank" href="https://youtu.be/TA6dgjnLMRM">https://youtu.be/TA6dgjnLMRM</a></li>
   <li>影片二（製作完成）：<a target="_blank" href="https://youtu.be/AywPSv3ZF3s">https://youtu.be/AywPSv3ZF3s</a></li>
 </ul>
+<h2>完整製作心得：</h2>
+https://3wa.tw/blog/blog.php?id=1904
 <h2>電路圖：</h2>
 <center>
   <img src="Circuit_diagram/welding_timer.png">
