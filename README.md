@@ -73,6 +73,10 @@ https://3wa.tw/blog/blog.php?id=1904
 <center>
   <img src="screenshot/p1.png">
 </center>
+<h2>電路圖：</h2>
+<center>
+  <img src="Circuit_diagram/circuit_diagram.png">
+</center>
 <h2>麵包板測試：</h2>
 <center>
   <img src="screenshot/p2.png">
